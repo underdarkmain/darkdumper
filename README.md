@@ -28,7 +28,7 @@ DC: Under_DarK#8078
 
 1. apt-get install python3
 2. apt-get install git
-3. git clone https://github.com/erfannoori/Cam-Dumper.git
+3. git clone [[https://github.com/erfannoori/Cam-Dumper.git](https://github.com/underdarkmain/darkdumper)](https://github.com/underdarkmain/darkdumper)
 4. pip/pip3 install -r requirements.txt
 5. pip install colorama
 6. python3 Cam Dumper.py
