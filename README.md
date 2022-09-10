@@ -13,7 +13,7 @@ Bu Program Sayesinde Webcam leri bulabilirsin!
 DC: Under_DarK#8078
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-**INSTALL WINDOWS**
+**Windows İçin**
 
 1. install python 3.9.5
 2. run cmd
@@ -24,7 +24,7 @@ DC: Under_DarK#8078
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-**INSTALL LINUX**
+**Linux Veya Termux İçin**
 
 1. apt-get install python3
 2. apt-get install git
